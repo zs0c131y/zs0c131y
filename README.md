@@ -8,7 +8,6 @@ MCA @ CHRIST University. Building things that are secure by default, not by afte
 ### what i'm working on
 
 - **[Gatekeeper](https://github.com/zs0c131y)** — An intelligent adaptive API gateway with learning-based rate limiting & predictive circuit breaking *(master's project)*
-- **AmbTrack** — Real-time ambulance tracking for Bangalore. Coordinating ambulances, hospitals, and traffic control — MVP headed to government pitch
 - **Autism Screening Platform** — AI-assisted early screening via caregiver voice input. NLP + transformers + explainable AI
 
 ---
