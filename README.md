@@ -54,7 +54,7 @@ Security   →  Network analysis · Threat modeling · WireGuard
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshagupta)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@brewcasker)
 [![X](https://img.shields.io/badge/X-000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/heyadarsha)
-&nbsp;·&nbsp; **talk@adarshg.dev** &nbsp;·&nbsp; **[adarshg.dev](https://adarshg.dev)**
+&nbsp;·&nbsp; **hi@adarshg.dev** &nbsp;·&nbsp; **[adarshg.dev](https://adarshg.dev)**
 
 open to internships, freelance, and collabs that sit at the intersection of dev + security.
 
